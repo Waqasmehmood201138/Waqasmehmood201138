@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Waqasmehmood201138
+- 👋 Hi, I’m Waqas Mehmood
 - 👀 I’m interested in MernStack
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on MernStack Projects
