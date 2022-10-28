@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Waqas Mehmood
-- 👀 I’m interested in MernStack
+- 👀 I’m interested in MernStack Development
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on MernStack Projects
 - 📫 How to reach me => Gmail : waqmeh456@gmail.com
